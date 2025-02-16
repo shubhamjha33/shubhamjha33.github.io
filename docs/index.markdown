@@ -19,8 +19,18 @@ title: Shubham's knowledge repository
 | Observability |
 | CI/CD |
 | PCI Standards |
+| Databases | 
+
+
+# Certifications
+
+* [Microsoft learn achievements](https://learn.microsoft.com/en-us/users/shubhamjha-5045)
+
+* [Get started with Redis](certifications/get-started-with-redis.pdf)
 
 # Medium Blogs
+
+* [Achieving 1 Million TPS](https://zetablogs.medium.com/achieving-1-million-tps-with-zetas-cipher-a-new-benchmark-in-the-payments-industry-part-1-9a0dbdb74924)
 
 * [Developers are you chasing timelines?](https://zetablogs.medium.com/developers-are-you-chasing-timelines-b784710d4498)
 

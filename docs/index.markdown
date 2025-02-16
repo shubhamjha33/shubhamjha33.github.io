@@ -8,18 +8,19 @@ title: Shubham's knowledge repository
 
 | Interest Areas |
 |---|
-| Cryptography |
+| [Databases](areas/database.md) |
+| [Cryptography](areas/cryptography.md) |
+| [CI/CD](areas/ci-cd.md) |
+| Programming Languages |
+| [Testing](areas/testing.md) |
+| [Architecture Patterns](areas/architecture-pattern.md) |
+| Design Patterns |
 | Security |
 | Authentication |
-| Testing |
 | REST |
-| Architecture Patterns |
-| Design Patterns |
 | Microservices |
 | Observability |
-| CI/CD |
 | PCI Standards |
-| Databases | 
 
 
 # Certifications
@@ -35,3 +36,9 @@ title: Shubham's knowledge repository
 * [Developers are you chasing timelines?](https://zetablogs.medium.com/developers-are-you-chasing-timelines-b784710d4498)
 
 * [Effective troubleshooting](https://zetablogs.medium.com/effective-troubleshooting-7cc060e1f66f)
+
+# Book recommendations
+
+* [The Staff Engineer's path](https://www.amazon.in/Staff-Engineers-Path-Individual-Contributors/dp/9355421915)
+
+* [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.amazon.in/Building-Secure-Reliable-Systems-Implementing/dp/9352139860/)

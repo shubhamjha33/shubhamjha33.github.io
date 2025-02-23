@@ -11,6 +11,7 @@ title: Shubham's knowledge repository
 | [Databases](areas/database.md) |
 | [Cryptography](areas/cryptography.md) |
 | [CI/CD](areas/ci-cd.md) |
+| [Big Data](areas/big-data.md) |
 | Programming Languages |
 | [Testing](areas/testing.md) |
 | [Architecture Patterns](areas/architecture-pattern.md) |
